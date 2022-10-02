@@ -6,8 +6,6 @@ const address = document.querySelector("#address");
 const city = document.querySelector("#city");
 const email = document.querySelector("#email");
 
-/*submitBtn.setAttribute("disabled", true);*/
-
 
 // Fonction permettant d'afficher tous les élements du panier contenu dans le localStorage
 
